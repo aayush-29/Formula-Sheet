@@ -1,0 +1,135 @@
+================================================================================
+                     📚 FORMULA SHEET APPLICATION
+                    Physics & Mathematics Formulas
+================================================================================
+
+HOW TO USE THIS APPLICATION:
+================================================================================
+
+1. EXTRACT THIS FOLDER to any location on your computer
+
+2. Make sure you see these files/folders:
+   ✓ formula_sheet_final_fixed.exe
+   ✓ images/ (folder with all image files)
+   ✓ This README file
+
+3. DOUBLE-CLICK the .exe file to start the application
+
+4. SELECT YOUR SUBJECT:
+   - Type "physics" or "mathematics"
+   - Press Enter
+
+5. CHOOSE A CHAPTER:
+   - Physics: Kinematics, Fluid Mechanics, Electrostatics, Magnetism, EMI
+   - Mathematics: Trigonometry, Complex Numbers, Statistics, Probability, Integrals
+
+6. VIEW THE FORMULAS:
+   - Enter the chapter number (1-5)
+   - The formula image will appear!
+
+================================================================================
+IMPORTANT NOTES:
+================================================================================
+
+⚠️ KEEP THE IMAGES FOLDER WITH THE EXE!
+   - Do NOT move the .exe without the images folder
+   - The images folder must be in the SAME location as the .exe
+   - If you move the .exe, move the images folder too!
+
+If you get "Image not found" error:
+   ✓ Check that "images" folder exists in the same location as .exe
+   ✓ Check that all image files are in the images folder
+   ✓ Do not rename the images folder or image files
+   ✓ Try running from Command Prompt to see detailed error
+
+================================================================================
+SYSTEM REQUIREMENTS:
+================================================================================
+
+- Windows 7 or newer (Windows 10/11 recommended)
+- No Python installation required!
+- ~50 MB of disk space
+- Internet NOT required (works offline)
+
+================================================================================
+WHAT'S INSIDE:
+================================================================================
+
+This is a standalone Windows application built with Python.
+
+It contains formulas for:
+
+PHYSICS (5 chapters):
+  1. Kinematics - Motion, velocity, acceleration
+  2. Fluid Mechanics - Pressure, flow, viscosity
+  3. Electrostatics - Charges, electric fields
+  4. Magnetism - Magnetic fields, forces
+  5. Electro Magnetic Induction - Faraday's law, inductance
+
+MATHEMATICS (5 chapters):
+  1. Trigonometry - Trig functions, identities
+  2. Complex Numbers - Complex algebra
+  3. Statistics - Mean, variance, probability distributions
+  4. Probability - Combinatorics, probability theory
+  5. Integrals - Integration techniques, calculus
+
+================================================================================
+TROUBLESHOOTING:
+================================================================================
+
+Problem: "The application won't start"
+Solution: Make sure all files are extracted and images folder exists
+
+Problem: "Image not found error"
+Solution: 
+  1. Check images folder is in SAME directory as .exe
+  2. Verify all 10 image files are there:
+     - Kinematics.jpg
+     - Fluid mechanics.jpg
+     - Electrostatics.jpg
+     - Magnetism.jpg
+     - Electro Magnetic Induction.jpg
+     - Trigonometry.jpg
+     - Complex No.jpg
+     - Statistics.jpg
+     - Probability.jpg
+     - Integrals.jpg
+
+Problem: "Error when opening image"
+Solution: Images may be corrupted, re-extract from ZIP file
+
+Problem: Application freezes
+Solution: Close and try again, or restart your computer
+
+================================================================================
+DEVELOPER INFORMATION:
+================================================================================
+
+This application was created to learn how to:
+- Load and display images in Python
+- Work with PIL (Python Imaging Library)
+- Create interactive command-line applications
+- Convert Python programs to standalone executables
+
+Source code available on GitHub:
+https://github.com/YOUR_USERNAME/formula-sheet
+
+Built with:
+- Python 3.x
+- PIL/Pillow library
+- PyInstaller for executable creation
+
+License: MIT (Feel free to modify and share!)
+
+================================================================================
+FEEDBACK:
+================================================================================
+
+If you have suggestions or find bugs:
+1. Go to GitHub repository
+2. Create an "Issue" or "Discussion"
+3. Share your feedback!
+
+Made with ❤️ while learning Python 🐍
+
+================================================================================
